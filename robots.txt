@@ -1,2 +1,4 @@
 User-agent: *
 Disallow:
+
+Sitemap: https://VelavaBakes.github.io/VelavaBakes/sitemap.xml
